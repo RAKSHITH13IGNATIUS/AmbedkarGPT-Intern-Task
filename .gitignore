@@ -1,0 +1,10 @@
+# Python Environment
+venv/
+__pycache__/
+*.pyc
+
+# ChromaDB files (Vector Store)
+.chroma/
+
+# Ollama cache/configs
+.ollama/
